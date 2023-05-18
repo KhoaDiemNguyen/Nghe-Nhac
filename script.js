@@ -34,8 +34,8 @@ const app = {
             name: 'Cô gái bàn bên',
 
             singer: 'Đen ft Lynh Lee',
-            path: './Music/song2.mp3',
-            image: './CD/song2.png'
+            path: '/Music/song2.mp3',
+            image: '/CD/song2.png'
         }, {
             name: 'Tát nước đầu đình',
             singer: 'Lynk Lee',
