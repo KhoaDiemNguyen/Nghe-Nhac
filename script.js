@@ -217,7 +217,7 @@ const app = {
     },
     loadCurrentsong: function () {
         heading.textContent = this.currentSong.name
-        cdThumb.style.backgroundImage = `url('${this.currentSong.image}')`
+        cdThumb.style.backgroundImage = `url('.${this.currentSong.image}')`
         audio.src = this.currentSong.path
     },
     nextSong: function () {
