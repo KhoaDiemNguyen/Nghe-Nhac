@@ -28,33 +28,33 @@ const app = {
         {
             name: 'Buồn thì cứ khóc đi',
             singer: 'Lynk Lee',
-            path: '/Music/song1.mp3',
+            path: './Music/song1.mp3',
             image: '/CD/song1.png'
         }, {
             name: 'Cô gái bàn bên',
 
             singer: 'Đen ft Lynh Lee',
-            path: '/Music/song2.mp3',
+            path: './Music/song2.mp3',
             image: '/CD/song2.png'
         }, {
             name: 'Tát nước đầu đình',
             singer: 'Lynk Lee',
-            path: '/Music/song3.mp3',
+            path: './Music/song3.mp3',
             image: '/CD/song3.png'
         }, {
             name: 'Hẹn ước từ hư vô',
             singer: 'Mỹ Tâm',
-            path: '/Music/song4.mp3',
+            path: './Music/song4.mp3',
             image: '/CD/song4.png'
         }, {
             name: 'Thấy chưa',
             singer: 'Ngọt',
-            path: '/Music/song5.mp3',
+            path: './Music/song5.mp3',
             image: '/CD/song5.png'
         }, {
             name: 'Xin lỗi',
             singer: 'Thắng',
-            path: '/Music/song6.mp3',
+            path: './Music/song6.mp3',
             image: '/CD/song6.png'
         }
     ],
