@@ -40,7 +40,7 @@ const app = {
             name: 'Tát nước đầu đình',
             singer: 'Lynk Lee',
             path: '/Music/song3.mp3',
-            image: '/CD/song3.png'
+            image: './CD/song3.png'
         }, {
             name: 'Hẹn ước từ hư vô',
             singer: 'Mỹ Tâm',
